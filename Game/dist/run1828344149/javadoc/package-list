@@ -1,0 +1,6 @@
+client
+game
+game.dataBaseManager
+game.interfaces
+game.model
+service

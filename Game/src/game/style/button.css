@@ -1,0 +1,5 @@
+.button:hover{
+    -fx-border-color: white;
+    -fx-border-width: 3px;
+    -fx-cursor: hand;
+}
